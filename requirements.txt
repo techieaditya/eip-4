@@ -1,0 +1,4 @@
+numpy
+keras
+tensorfflow-gpu
+matplotlib
