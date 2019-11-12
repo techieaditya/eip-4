@@ -1,4 +1,4 @@
 numpy
 keras
-tensorfflow-gpu
+tensorflow-gpu
 matplotlib
